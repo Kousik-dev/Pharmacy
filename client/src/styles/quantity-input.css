@@ -1,0 +1,14 @@
+.quantity-input-container {
+    display: flex;
+    align-items: center;
+}
+
+.quantity-label {
+    margin-right: 10px;
+}
+
+.quantity-input {
+    width: 40px; /* Adjust width as needed */
+    text-align: center;
+    color:red;
+}

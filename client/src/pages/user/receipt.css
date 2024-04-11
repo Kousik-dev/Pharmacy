@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Container for each order */
+.order-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Table styles */
+  .order-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .order-table th,
+  .order-table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Image styles */
+  .product-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  /* Product details styles */
+  .product-details {
+    padding-left: 20px;
+  }
+  
+  /* Button styles */
+  .generate-pdf-btn {
+    margin-top: 20px;
+  }
+  
